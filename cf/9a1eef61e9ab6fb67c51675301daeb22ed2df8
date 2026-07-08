@@ -1,0 +1,23 @@
+packages/components/drawer/__tests__/drawer.hooks.test.tsx
+  s_7425e994e1a154::t_bfcbb4d7e6ffe9 8,14
+  s_7425e994e1a154::t_42dcb73d2b2d4f 11
+  s_7425e994e1a154::t_a7cef192a49c47 44-45,248-277,288
+packages/components/drawer/hooks/index.ts
+  s_7425e994e1a154::t_5dfcf0808876b5 55-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cf9a1eef61e9ab6fb67c51675301daeb22ed2df8",
+  "prompts": {},
+  "sessions": {
+    "s_7425e994e1a154": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "664e7983-f10d-4e23-bff5-45c2941c4aa9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "xuxiao6 <1797494661@qq.com>"
+    }
+  }
+}
