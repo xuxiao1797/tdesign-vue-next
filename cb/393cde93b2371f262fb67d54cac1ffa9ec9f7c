@@ -1,0 +1,21 @@
+packages/components/select/__tests__/select.hooks.test.tsx
+  s_7425e994e1a154::t_6856d3b97ab7d2 420-450
+packages/components/select/hooks/useKeyboardControl.ts
+  s_7425e994e1a154::t_91c321c053c0a6 154-156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cb393cde93b2371f262fb67d54cac1ffa9ec9f7c",
+  "prompts": {},
+  "sessions": {
+    "s_7425e994e1a154": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "664e7983-f10d-4e23-bff5-45c2941c4aa9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "xuxiao6 <1797494661@qq.com>"
+    }
+  }
+}
