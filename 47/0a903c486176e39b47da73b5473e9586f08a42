@@ -1,0 +1,19 @@
+packages/components/select/__tests__/select.hooks.test.tsx
+  s_a1636894cf7f3d::t_b3c9b6e309053a 440
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "470a903c486176e39b47da73b5473e9586f08a42",
+  "prompts": {},
+  "sessions": {
+    "s_a1636894cf7f3d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e5093732-165e-4e14-b4ff-8b3879f46547",
+        "model": "unknown"
+      },
+      "human_author": "xuxiao6 <xuxiao6@lenovo.com>"
+    }
+  }
+}
