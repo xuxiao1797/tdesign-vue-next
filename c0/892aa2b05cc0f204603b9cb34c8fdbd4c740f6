@@ -1,0 +1,21 @@
+packages/components/drawer/__tests__/drawer.test.tsx
+  s_a1636894cf7f3d::t_411c2791fe4baa 12
+  s_a1636894cf7f3d::t_ee668498928093 21-24,26,751,924,940
+  s_a1636894cf7f3d::t_281aab7eda6095 9,15,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c0892aa2b05cc0f204603b9cb34c8fdbd4c740f6",
+  "prompts": {},
+  "sessions": {
+    "s_a1636894cf7f3d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e5093732-165e-4e14-b4ff-8b3879f46547",
+        "model": "default"
+      },
+      "human_author": "xuxiao6 <xuxiao6@lenovo.com>"
+    }
+  }
+}
